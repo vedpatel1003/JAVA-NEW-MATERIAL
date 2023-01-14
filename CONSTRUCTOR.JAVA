@@ -12,11 +12,11 @@ class MyMainEmployee{
 }
 public class cwh_42_constructors {
     public static void main(String[] args) {
-        MyMainEmployee harry = new MyMainEmployee();
+        MyMainEmployee VED = new MyMainEmployee();
         VED.setName("HELLO WORLD");
         VED.setId(12);
-        System.out.println(harry.getId());
-        System.out.printlnCharry.getName();
+        System.out.println(VED.getId());
+        System.out.printlnCHELLO.getName();
 
     }
 }
